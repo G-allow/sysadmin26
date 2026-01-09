@@ -21,6 +21,8 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 
 ## Solutions
 
+3. kleinste: 00_02, größte: 00_09
+
 ## Participants
 
 - Markus - [iimog](https://github.com/iimog)
