@@ -26,5 +26,5 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 - Cedric - Odjn
 - Volker - VK339
 - Luc - Luck44s
-- Yann   - [G-allow]
+- Yann   - [G-allow](https://github.com/G-allow/sysadmin26)
 - Merlin - [msebeikat](https://github.com/msebeikat)
