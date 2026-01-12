@@ -1,0 +1,5 @@
+Lösungen für die Aufgaben
+
+2) 603
+3) 12
+4) 18; 99999
